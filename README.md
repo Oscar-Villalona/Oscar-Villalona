@@ -27,6 +27,13 @@ Me especializo en el análisis de seguridad, automatización con scripts y admin
 
 ---
 
+### 🫆 Certificaciones
+
+- **Google CyberSecurity Certificado**
+- **Google IT support Certificado**
+
+---
+
 ### 📊 Mis Estadísticas de GitHub
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Oscar-Villalona&theme=tokyonight)
