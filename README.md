@@ -1,16 +1,37 @@
-## Hi there 👋
+# ¡Hola! Soy Oscar 👋
 
-<!--
-**Oscar-Villalona/Oscar-Villalona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Analista Junior de Ciberseguridad | Entusiasta del Blue Team & Linux**
 
-Here are some ideas to get you started:
+Me especializo en el análisis de seguridad, automatización con scripts y administración de sistemas Linux. Apasionado por la detección de amenazas, el análisis de eventos y la configuración de entornos seguros.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+- **Sistemas Operativos:** Linux (CachyOS, Ubuntu, Kali Linux), Windows Server
+- **Lenguajes & Scripting:** Python, Bash, C
+- **Seguridad & Monitoreo:** Wireshark, Análisis de Logs, Fundamentos de Redes, Análisis de Tráfico
+- **Control de Versiones:** Git, GitHub
+
+---
+
+### 🚀 Proyectos Destacados
+
+- 🛡️ **[Nombre de tu proyecto SIEM/Lab]**: Configuración de laboratorio de monitoreo de seguridad e ingesta de eventos.
+- 🐍 **[Nombre de tu script en Python]**: Herramienta en Python para análisis de logs / consulta de IOCs.
+- 🐧 **[Nombre de tu proyecto Linux]**: Scripts de automatización y configuración de entorno.
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Oscar-Villalona&show_icons=true&theme=tokyonight" alt="Oscar's GitHub Stats" />
+</p>
+
+---
+
+### 📫 Contacto
+
+- **LinkedIn:** [tu-usuario](https://linkedin.com/in/tu-usuario)
+- **Correo:** tu-email@ejemplo.com
