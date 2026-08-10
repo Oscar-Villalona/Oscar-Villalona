@@ -2,7 +2,7 @@
 
 **Analista Junior de Ciberseguridad | Entusiasta del Blue Team & Linux**
 
-<img width="736" height="414" alt="#anime #wallpaper" src="https://github.com/user-attachments/assets/49295e78-7ce9-4f17-a0a6-d3643583a602" />
+<img width="900" height="414" alt="#anime #wallpaper" src="https://github.com/user-attachments/assets/49295e78-7ce9-4f17-a0a6-d3643583a602" />
 
 
 
