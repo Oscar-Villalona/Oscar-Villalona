@@ -2,6 +2,9 @@
 
 **Analista Junior de Ciberseguridad | Entusiasta del Blue Team & Linux**
 
+<img width="736" height="414" alt="descarga" src="https://github.com/user-attachments/assets/fcb64a1a-92a4-4a57-856c-fca0f455b54f" />
+
+
 Me especializo en el análisis de seguridad, automatización con scripts y administración de sistemas Linux. Apasionado por la detección de amenazas, el análisis de eventos y la configuración de entornos seguros.
 
 ---
