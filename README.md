@@ -29,7 +29,7 @@ Me especializo en el análisis de seguridad, automatización con scripts y admin
 
 ### 📊 Mis Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Oscar-Villalona&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Oscar-Villalona&theme=tokyonight)
 
 ---
 
