@@ -37,4 +37,4 @@ Me especializo en el análisis de seguridad, automatización con scripts y admin
 
 - **LinkedIn:** [oscar-villalona-b829453b8](https://linkedin.com/in/oscar-villalona-b829453b8)
 - **Correo:** villalonaoscar2@gmail.com
-- **TryHackMe** [AstraAnalyst](https://tryhackme.com/p/AstraAnalyst)
+- **TryHackMe:** [AstraAnalyst](https://tryhackme.com/p/AstraAnalyst)
