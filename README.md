@@ -29,8 +29,10 @@ Me especializo en el análisis de seguridad, automatización con scripts y admin
 
 ### 🫆 Certificaciones
 
-- **Google CyberSecurity Certificado**
-- **Google IT support Certificado**
+- 🛡️ **Google Cybersecurity Certificate** — *Google / Coursera*
+- 💻 **Google IT Support Certificate** — *Google / Coursera*
+
+> 📌 *Preparándome actualmente para las certificaciones CCNA y Security+.*
 
 ---
 
