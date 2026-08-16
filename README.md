@@ -1,49 +1,74 @@
-# ¡Hola! Soy Oscar 👋
+<div align="center">
 
-**Analista Junior de Ciberseguridad | Entusiasta del Blue Team & Linux**
+<!-- Header Banner -->
+<img width="736" height="414" alt="Hoshimi miyabi zenless zone zero" src="https://github.com/user-attachments/assets/c6ab7074-f6e7-46bd-b25b-637128cda259" />
 
-<img width="900" height="414" alt="#anime #wallpaper" src="https://github.com/user-attachments/assets/49295e78-7ce9-4f17-a0a6-d3643583a602" />
-
-
-
-Me especializo en el análisis de seguridad, automatización con scripts y administración de sistemas Linux. Apasionado por la detección de amenazas, el análisis de eventos y la configuración de entornos seguros.
+# Welcome to Oscar's GitHub
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
-
-- **Sistemas Operativos:** Linux (CachyOS, Ubuntu, Kali Linux), Windows Server
-- **Lenguajes & Scripting:** Python, Bash, C
-- **Seguridad & Monitoreo:** Wireshark, Análisis de Logs, Fundamentos de Redes, Análisis de Tráfico
-- **Control de Versiones:** Git, GitHub
-
----
-
-### 🚀 Proyectos Destacados
-
-- 🛡️ **[Nombre de tu proyecto SIEM/Lab]**: Configuración de laboratorio de monitoreo de seguridad e ingesta de eventos.
-- 🐍 **[Nombre de tu script en Python]**: Herramienta en Python para análisis de logs / consulta de IOCs.
-- 🐧 **[Nombre de tu proyecto Linux]**: Scripts de automatización y configuración de entorno.
+### 🔗 Connect with me
+<p align="center">
+  <a href="https://github.com/Oscar-Villalona"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tu-email@domain.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-### 🫆 Certificaciones
+### 👤 About me
 
-- 🛡️ **Google Cybersecurity Certificate** — *Google / Coursera*
-- 💻 **Google IT Support Certificate** — *Google / Coursera*
+Hello, I'm **Oscar Villalona** — a Cybersecurity Analyst & IT Professional.  
+I focus on network security, SOC operations, threat analysis, and Python automation.
 
-> 📌 *Preparándome actualmente para las certificaciones CCNA y Security+.*
-
----
-
-### 📊 Mis Estadísticas de GitHub
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Oscar-Villalona&theme=tokyonight)
+**Cybersecurity & SOC Analyst**  
+**Network Infrastructure (CCNA & Security+)**  
+**Python Automation & Security Tools**  
 
 ---
 
-### 📫 Contacto
+### 🛠️ Technologies
 
-- **LinkedIn:** [oscar-villalona-b829453b8](https://linkedin.com/in/oscar-villalona-b829453b8)
-- **Correo:** villalonaoscar2@gmail.com
-- **TryHackMe:** [AstraAnalyst](https://tryhackme.com/p/AstraAnalyst)
+#### Security & Networking
+<p align="center">
+  <img src="https://img.shields.io/badge/CISCO_CCNA-000000?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/COMPTIA_SEC+-000000?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/WIRESHARK-000000?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/SPLUNK-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
+
+#### Programming & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+### 📊 Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oscar-Villalona&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Oscar-Villalona&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="48%" />
+</p>
+
+---
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oscar-Villalona&theme=dark&hide_border=false" alt="Streak Stats" width="80%" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oscar-Villalona&theme=react-dark&hide_border=false" alt="Contribution Graph" width="100%" />
+</p>
+
+</div>
