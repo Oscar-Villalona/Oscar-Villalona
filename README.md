@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="736" height="414" alt="Hoshimi miyabi zenless zone zero" src="https://github.com/user-attachments/assets/c6ab7074-f6e7-46bd-b25b-637128cda259" />
+<img width="639" height="146" alt="Mesa de trabajo 1" src="https://github.com/user-attachments/assets/a8963b14-9297-4602-9b43-c129eb27dadc" />
 
 # Welcome to Oscar's GitHub
 
