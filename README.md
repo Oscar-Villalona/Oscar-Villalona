@@ -50,13 +50,28 @@ I focus on network security, SOC operations, threat analysis, and Python automat
 
 ---
 
-### 📊 Statistics
+### 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oscar-Villalona&theme=dark&hide_border=false&layout=compact" alt="Most Used Languages" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Oscar-Villalona&theme=dark&hide_border=false&show_icons=true" alt="GitHub Stats" width="48%" />
-</p>
+<div align="center">
 
+<table border="0" style="border-collapse: collapse;">
+  <tr>
+    <td align="center" width="160" valign="middle">
+      <img width="736" height="736" alt="❥ Miyabi" src="https://github.com/user-attachments/assets/cac60246-e6af-4696-abcf-f67fc5c593b1" />
+    </td>
+    <td align="left" valign="middle">
+      <h3><a href="https://github.com/Oscar-Villalona/Python-Scan-Network">🔍 Python Scan Network</a></h3>
+      <p>Automated multi-threaded network & port scanner built with Python and Nmap for security auditing and exportable reports (JSON/CSV).</p>
+      <p>
+        <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/NMAP-000000?style=for-the-badge&logo=nmap&logoColor=white" />
+        <img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
 ---
 
 ### 🔥 Contribution Streak
