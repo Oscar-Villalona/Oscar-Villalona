@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="639" height="146" alt="Mesa de trabajo 1" src="https://github.com/user-attachments/assets/a8963b14-9297-4602-9b43-c129eb27dadc" />
+<img width="5000" height="1803" alt="wallpaperflare com_wallpaper" src="https://github.com/user-attachments/assets/6123b4b2-bd8e-47a8-84c3-3fb93a29c20a" />
+
 
 # Welcome to Oscar's GitHub
 
