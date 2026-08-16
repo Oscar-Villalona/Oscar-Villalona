@@ -8,7 +8,7 @@
 
 ---
 
-### 🔗 Connect with me
+### 🔗 Links
 <p align="center">
   <a href="https://tryhackme.com/p/AstraAnalyst"><img src="https://img.shields.io/badge/TRYHACKME-000000?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/oscar-villalona-b829453b8/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=red" /></a>
@@ -22,21 +22,22 @@
 Hello, I'm **Oscar Villalona** — a Cybersecurity Analyst & IT Professional.  
 I focus on network security, SOC operations, threat analysis, and Python automation.
 
-**Cybersecurity & SOC Analyst**  
-**Network Infrastructure (CCNA & Security+)**  
-**Python Automation & Security Tools**  
 
 ---
 
-### 🛠️ Technologies
+### 🛠️ Certifications
 
-#### Security & Networking
+#### Active Certifications
 <p align="center">
+  <img src="https://img.shields.io/badge/GOOGLE_CYBERSECURITY-000000?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/GOOGLE_IT_SUPPORT-000000?style=for-the-badge&logo=google&logoColor=white" />
+  
+</p>
+
+#### Currently Pursuing
+<p align="center">
+  <img src="https://img.shields.io/badge/COMPTIA_SECURITY+-000000?style=for-the-badge&logo=comptia&logoColor=white" />
   <img src="https://img.shields.io/badge/CISCO_CCNA-000000?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/COMPTIA_SEC+-000000?style=for-the-badge&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/WIRESHARK-000000?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/SPLUNK-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 #### Programming & Tools
