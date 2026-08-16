@@ -10,9 +10,9 @@
 
 ### 🔗 Connect with me
 <p align="center">
-  <a href="https://github.com/Oscar-Villalona"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tu-email@domain.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://tryhackme.com/p/AstraAnalyst"><img src="https://img.shields.io/badge/TRYHACKME-000000?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/oscar-villalona-b829453b8/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=red" /></a>
+  <a href="mailto:villalonaoscar2@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
