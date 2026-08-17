@@ -49,8 +49,15 @@ I focus on network security, SOC operations, threat analysis, and Python automat
   <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/WIRESHARK-000000?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  
 </p>
+
+#### OS - Operating System
+<p align="center">
+ <img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/KALI%20LINUX-000000?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/WINDOWS%20SERVER-000000?style=for-the-badge&logo=windows&logoColor=white" />  
+</p> 
 
 ---
 
@@ -82,6 +89,7 @@ I focus on network security, SOC operations, threat analysis, and Python automat
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oscar-Villalona&theme=dark&hide_border=false" alt="Streak Stats" width="80%" />
+  
 </p>
 
 ---
