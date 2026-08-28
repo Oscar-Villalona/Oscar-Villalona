@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://tryhackme.com/p/AstraAnalyst"><img src="https://img.shields.io/badge/TRYHACKME-000000?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/oscar-villalona-b829453b8/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=red" /></a>
-  <a href="mailto:villalonaoscar2@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  
 </p>
 
 ---
