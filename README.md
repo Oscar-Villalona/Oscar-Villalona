@@ -19,7 +19,7 @@
 
 ### 👤 About me
 
-Hello, I'm **Oscar Villalona** — a Cybersecurity Analyst & IT Professional.  
+Hello, I'm **Oscar Villalona** — aspired Cybersecurity Analyst & IT Professional.  
 I focus on network security, SOC operations, threat analysis, and Python automation.
 
 
